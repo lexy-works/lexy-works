@@ -80,6 +80,6 @@
 
 <div align="right">
 
-![last updated](https://img.shields.io/github/last-commit/USERNAME/USERNAME?style=for-the-badge&label=last%20updated&color=lightgrey)
+![last updated](https://img.shields.io/github/last-commit/lexy-works/lexy-works?style=for-the-badge&label=last%20updated&color=lightgrey)
 
 </div>
